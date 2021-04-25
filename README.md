@@ -1,2 +1,2 @@
 # Constelation
-Modelo de aprendizaje Constelación, el cual usa modelos dimensionales para aprender y explicar la realidad de forma diferente. No obstante contempla aspectos necesarios para realizar análisis, recurrencia, heurística, permutación, combinación, variación, iteración y novedad entre metaconexiones.
+Modelo de aprendizaje Constelación, Una forma con la cual podemos aprender y explicar la realidad de forma diferente. No obstante contempla aspectos necesarios para realizar análisis, recurrencia, heurística, permutación, combinación, variación, iteración y novedad entre metaconexiones en el momento de tomar decisiones y es representada de una manera sintetizada en Metodologia 9 dimensiones o [9D](https://github.com/smartcitiescommunity/9D)
